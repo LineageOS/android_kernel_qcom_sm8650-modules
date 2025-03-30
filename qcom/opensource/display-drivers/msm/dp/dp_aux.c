@@ -6,7 +6,7 @@
 
 #include <linux/delay.h>
 
-#if IS_ENABLED(CONFIG_QCOM_FSA4480_I2C)
+#if IS_ENABLED(CONFIG_QCOM_DP_FSA4480_I2C)
 #include <linux/soc/qcom/fsa4480-i2c.h>
 #endif
 #if IS_ENABLED(CONFIG_QCOM_WCD939X_I2C)
@@ -769,7 +769,7 @@ static void dp_aux_set_sim_mode(struct dp_aux *dp_aux,
 	mutex_unlock(&aux->mutex);
 }
 
-#if IS_ENABLED(CONFIG_QCOM_FSA4480_I2C)
+#if IS_ENABLED(CONFIG_QCOM_DP_FSA4480_I2C)
 static int dp_aux_configure_fsa_switch(struct dp_aux *dp_aux,
 		bool enable, int orientation)
 {
@@ -922,7 +922,7 @@ struct dp_aux *dp_aux_get(struct device *dev, struct dp_catalog_aux *catalog,
 
 	/*Condition to avoid allocating function pointers for aux bypass mode*/
 	if (switch_type != DP_AUX_SWITCH_BYPASS) {
-#if IS_ENABLED(CONFIG_QCOM_FSA4480_I2C)
+#if IS_ENABLED(CONFIG_QCOM_DP_FSA4480_I2C)
 		if (switch_type == DP_AUX_SWITCH_FSA4480) {
 			dp_aux->switch_configure = dp_aux_configure_fsa_switch;
 			dp_aux->switch_register_notifier = fsa4480_reg_notifier;
