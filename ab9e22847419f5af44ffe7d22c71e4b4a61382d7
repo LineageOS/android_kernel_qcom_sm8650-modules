@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "96599555_e60a273d",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 19979
+      },
+      "writtenOn": "2025-10-12T09:48:29Z",
+      "side": 1,
+      "message": "https://git.codelinaro.org/clo/la/platform/vendor/opensource/video-driver/-/commit/bd8e0e4f77b17db601c3c3d6f99bd6a63471c699",
+      "revId": "ab9e22847419f5af44ffe7d22c71e4b4a61382d7",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
