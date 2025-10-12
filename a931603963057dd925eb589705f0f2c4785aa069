@@ -22,6 +22,30 @@
       },
       "revId": "a931603963057dd925eb589705f0f2c4785aa069",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "8a83f92c_afa51f0d",
+        "filename": "qcom/opensource/dataipa/drivers/platform/msm/ipa/ipa_v3/ipa.c",
+        "patchSetId": 3
+      },
+      "lineNbr": 10525,
+      "author": {
+        "id": 21290
+      },
+      "writtenOn": "2025-10-12T11:35:15Z",
+      "side": 0,
+      "message": "This would be false anyway unless you defined that in devicetree, which doesn\u0027t seem to be the case. I don\u0027t see how this revert can fix anything",
+      "parentUuid": "963be00d_732383ce",
+      "range": {
+        "startLine": 10525,
+        "startChar": 4,
+        "endLine": 10525,
+        "endChar": 21
+      },
+      "revId": "a931603963057dd925eb589705f0f2c4785aa069",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
