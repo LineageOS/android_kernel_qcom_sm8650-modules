@@ -34,6 +34,24 @@
       "parentUuid": "a3a66923_08d4392f",
       "revId": "b4849abb2b0d548dce9de796037f00baf41b5c87",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "65269017_3c3769a5",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2025-10-12T19:07:44Z",
+      "side": 1,
+      "message": "Use that only if there are merge commits in the chain.",
+      "parentUuid": "6c194653_fb725cce",
+      "revId": "b4849abb2b0d548dce9de796037f00baf41b5c87",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
