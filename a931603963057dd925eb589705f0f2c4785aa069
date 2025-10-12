@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "963be00d_732383ce",
+        "filename": "qcom/opensource/dataipa/drivers/platform/msm/ipa/ipa_v3/ipa.c",
+        "patchSetId": 3
+      },
+      "lineNbr": 10525,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2025-10-12T09:29:08Z",
+      "side": 0,
+      "message": "Uhhh... why do you just set this to false in DTS?",
+      "range": {
+        "startLine": 10525,
+        "startChar": 4,
+        "endLine": 10525,
+        "endChar": 21
+      },
+      "revId": "a931603963057dd925eb589705f0f2c4785aa069",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
