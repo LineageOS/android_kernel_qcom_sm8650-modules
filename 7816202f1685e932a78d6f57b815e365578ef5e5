@@ -16,6 +16,24 @@
       "message": "they are already properly ifndef\u0027d - why bother removing them?",
       "revId": "7816202f1685e932a78d6f57b815e365578ef5e5",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "8863583f_31c44403",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 30975
+      },
+      "writtenOn": "2025-10-13T16:10:58Z",
+      "side": 1,
+      "message": "bcuz still get definition error",
+      "parentUuid": "4d9dec36_6cb41002",
+      "revId": "7816202f1685e932a78d6f57b815e365578ef5e5",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
