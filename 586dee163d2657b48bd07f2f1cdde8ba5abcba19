@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "06476d6c_d9c03f4e",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 35825
+      },
+      "writtenOn": "2025-10-15T07:19:40Z",
+      "side": 1,
+      "message": "Fixes freezing issues when device kept idle with mobile data enabled.",
+      "revId": "586dee163d2657b48bd07f2f1cdde8ba5abcba19",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
