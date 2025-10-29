@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "e38c0624_49a4b11b",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 19,
+      "author": {
+        "id": 21290
+      },
+      "writtenOn": "2025-10-29T10:19:47Z",
+      "side": 1,
+      "message": "Why did you get conflicts? Did you forget -Xsubtree\u003dqcom/opensource/securemsm-kernel? When i redo the merge i don\u0027t get any conflicts (`git pull https://git.codelinaro.org/clo/la/platform/vendor/qcom/opensource/securemsm-kernel LA.VENDOR.14.3.0.r1-22300-lanai.QSSI16.0 -Xsubtree\u003dqcom/opensource/securemsm-kernel/ --log\u003d9999 --no-rebase`)\n\nAnyway, the merge is the same in the end but i\u0027d like to change the commit message",
+      "range": {
+        "startLine": 15,
+        "startChar": 0,
+        "endLine": 19,
+        "endChar": 2
+      },
+      "revId": "6f6af67dca6eb6eeebfc09376e262c35a29ea9b0",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
