@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "81e8dc39_cf1ce31e",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2026-01-08T07:46:34Z",
+      "side": 1,
+      "message": "With regards to display, I strongly suggest to match the same tag used in the HAL.",
+      "revId": "3892d1aeeacc53f8e79bce4476227ba5655cefc2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
