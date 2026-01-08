@@ -34,6 +34,24 @@
       "parentUuid": "81e8dc39_cf1ce31e",
       "revId": "3892d1aeeacc53f8e79bce4476227ba5655cefc2",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "aa61b756_afb1437d",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2026-01-08T22:53:02Z",
+      "side": 1,
+      "message": "Nevertheless, I\u0027d still only update kernel driver if HAL is also updated.",
+      "parentUuid": "7d80bff7_f06f94ad",
+      "revId": "3892d1aeeacc53f8e79bce4476227ba5655cefc2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
