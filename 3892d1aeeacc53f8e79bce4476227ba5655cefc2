@@ -16,6 +16,24 @@
       "message": "With regards to display, I strongly suggest to match the same tag used in the HAL.",
       "revId": "3892d1aeeacc53f8e79bce4476227ba5655cefc2",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "7d80bff7_f06f94ad",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 30975
+      },
+      "writtenOn": "2026-01-08T20:01:55Z",
+      "side": 1,
+      "message": "Currently, only oplus devices is shipping, and we are using a prebuilt HWC, so it should be fine without matching the HAL, as they might get updated in the future anyway.",
+      "parentUuid": "81e8dc39_cf1ce31e",
+      "revId": "3892d1aeeacc53f8e79bce4476227ba5655cefc2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
