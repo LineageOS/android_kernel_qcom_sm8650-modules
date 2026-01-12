@@ -52,6 +52,24 @@
       "parentUuid": "7d80bff7_f06f94ad",
       "revId": "3892d1aeeacc53f8e79bce4476227ba5655cefc2",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "504da2da_00d6bda1",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 30975
+      },
+      "writtenOn": "2026-01-12T06:04:23Z",
+      "side": 1,
+      "message": "Alright. I’ve updated the HAL as well (a4b85acf4c91fdcf5aea38754b43917b43772739).",
+      "parentUuid": "aa61b756_afb1437d",
+      "revId": "3892d1aeeacc53f8e79bce4476227ba5655cefc2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
