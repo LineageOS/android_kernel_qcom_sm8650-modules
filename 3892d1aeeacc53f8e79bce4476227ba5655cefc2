@@ -88,6 +88,23 @@
       "parentUuid": "504da2da_00d6bda1",
       "revId": "3892d1aeeacc53f8e79bce4476227ba5655cefc2",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "c6a14d6f_e7e4a14d",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 21290
+      },
+      "writtenOn": "2026-01-19T12:43:13Z",
+      "side": 1,
+      "message": "Verified this on FP6 (which builds what we can regarding display from source) with and without the display HAL changes. Display HAL was prone to breakage without blob updates in the past, whether we want that can be decided separately.",
+      "revId": "3892d1aeeacc53f8e79bce4476227ba5655cefc2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
