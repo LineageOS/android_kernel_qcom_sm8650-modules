@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "4c098fca_de1c7439",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 30975
+      },
+      "writtenOn": "2026-03-26T05:28:22Z",
+      "side": 1,
+      "message": "Either CONFIG_QCOM_FSA4480_I2C or CONFIG_QCOM_DP_FSA4480_I2C is not enabled in bazel for both pineapple and volcano platforms, and this repository is not using for kalama platform.",
+      "revId": "c06f24c2a2c9f6cbafef201afe09c020f9445ae1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
