@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "aefb88c9_d07f0bea",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2026-05-10T17:35:08Z",
+      "side": 1,
+      "message": "CVE-2026-21385 from March 2026 ASB",
+      "revId": "73cd182901963901a23ea5c6ecb59b2d905bfd7e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
