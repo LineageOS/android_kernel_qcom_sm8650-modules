@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "3042dad2_094b9cd0",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2026-05-10T17:34:34Z",
+      "side": 1,
+      "message": "CVE-2025-47396 from March 2026 ASB",
+      "revId": "24b2a6442b233258bc4c477c2b65285476fe164a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
