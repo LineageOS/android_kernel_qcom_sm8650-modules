@@ -16,6 +16,24 @@
       "message": "Found in FP6 kernel",
       "revId": "9e11daf3294f5adc8acaf3afac672896c781ff12",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "37598e6f_3711af8e",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2026-05-10T18:26:06Z",
+      "side": 1,
+      "message": "Forgot to mention this and the previous one are picked from sm8750 qcacld",
+      "parentUuid": "5e1bad59_ec58f1ac",
+      "revId": "9e11daf3294f5adc8acaf3afac672896c781ff12",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
