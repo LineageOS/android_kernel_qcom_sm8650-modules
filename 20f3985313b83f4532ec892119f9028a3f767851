@@ -16,6 +16,23 @@
       "message": "This is picked from sm8750 qcacld, and was \"cherry-picked\" here https://gerrit-public.fairphone.software/plugins/gitiles/platform/vendor/qcom-opensource/wlan/qcacld-3.0/+/d51ae2de73eec53b4cf679cb488702513da5a17b so I\u0027m not sure whether we want it as-is or Fairphone ODM\u0027s solution",
       "revId": "20f3985313b83f4532ec892119f9028a3f767851",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "68546d13_20fe0959",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2026-05-12T16:51:58Z",
+      "side": 1,
+      "message": "Smoke test is fine on FP6",
+      "revId": "20f3985313b83f4532ec892119f9028a3f767851",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
